@@ -175,5 +175,4 @@
 
     <footer>© 2025 WarClash. All Rights Reserved.</footer>  
   </div>    
-</body>    
-</html>
+
