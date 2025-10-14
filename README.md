@@ -101,15 +101,8 @@
       margin: 0;  
       font-size: 1rem;  
       line-height: 1.5;  
-    }  
+  }
   
-    footer {  
-      margin-top: 70px;  
-      font-size: 0.9rem;  
-      color: #777;  
-    }  
-  </style>  
-</head>  
 <body>  
   <div class="container">  
     <img src="warclash_logo.png" alt="WarClash Logo" class="logo" />  
@@ -159,4 +152,3 @@
     <footer>© 2025 WarClash. All Rights Reserved.</footer>  
   </div>  
 </body>  
-</html>
