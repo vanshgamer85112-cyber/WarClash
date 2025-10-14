@@ -1,37 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>WarClash</title>
-  <style>
-    body {
-      margin: 0;
-      background-color: #000;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      font-family: 'Poppins', sans-serif;
-    }
 
-    h1 {
-      color: #ff0000;
-      font-size: 4rem;
-      text-shadow: 0 0 25px rgba(255, 0, 0, 0.6);
-      animation: glow 2s infinite alternate;
-    }
-
-    @keyframes glow {
-      from { text-shadow: 0 0 10px #ff0000; }
-      to { text-shadow: 0 0 30px #ff0000; }
-    }
-  </style>
-</head>
-<body>
-  <h1>WarClash</h1>
-</body>
-</html>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>WarClash - Download</title>
