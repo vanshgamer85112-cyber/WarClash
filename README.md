@@ -1,8 +1,4 @@
-=device-width, initial-scale=1.0" />  
-  <title>WarClash - Download</title>  
-  <style>  
-    body {  
-      margin: 0;  
+     margin: 0;  
       padding: 0;  
       background-color: #000;  
       font-family: 'Poppins', sans-serif;  
