@@ -1,28 +1,4 @@
-<!DOCTYPE html>  
-<html lang="en">  
-<head>  
-  <meta charset="UTF-8" />  
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />  
-  <title>WarClash - Download</title>  
-  <style>  
-    body {  
-      margin: 0;  
-      padding: 0;  
-      background-color: #000;  
-      font-family: 'Poppins', sans-serif;  
-      color: #fff;  
-      text-align: center;  
-      min-height: 140vh;  
-    }  
-  
-    .container {  
-      display: flex;  
-      flex-direction: column;  
-      align-items: center;  
-      justify-content: flex-start;  
-      padding: 60px 20px;  
-      gap: 25px;  
-    }  
+
   
     .logo {  
       width: 320px;  
