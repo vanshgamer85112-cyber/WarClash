@@ -38,8 +38,7 @@
       100% { filter: drop-shadow(0 0 30px rgba(255, 0, 0, 0.7)); }    
     }    
 
-    /* 🔥 WarClash Title */
-    h1 {    
+        
       font-size: 3.2rem;    
       color: #ff0000;    
       text-shadow: 0 0 25px rgba(255, 0, 0, 0.7);    
