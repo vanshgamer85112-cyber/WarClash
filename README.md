@@ -1,4 +1,10 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WarClash - Download</title>
+  <style>
     body {
       margin: 0;
       padding: 0;
@@ -31,11 +37,18 @@
       100% { filter: drop-shadow(0 0 30px rgba(255, 0, 0, 0.7)); }
     }
 
+    /* 🔴 WarClash red glowing effect */
     h1 {
-      font-size: 3.2rem;
-      color: #ff3b3b;
-      text-shadow: 0 0 10px rgba(255, 0, 0, 0.6);
+      font-size: 3.5rem;
+      color: #ff0000;
+      text-shadow: 0 0 25px rgba(255, 0, 0, 0.7);
       margin-bottom: 10px;
+      animation: glow 2s infinite alternate;
+    }
+
+    @keyframes glow {
+      from { text-shadow: 0 0 10px #ff0000; }
+      to { text-shadow: 0 0 30px #ff0000; }
     }
 
     .tagline {
@@ -157,4 +170,5 @@
     <footer>© 2025 WarClash. All Rights Reserved.</footer>
   </div>
 </body>
-</html>
+</html><img width="1080" height="1080" alt="1000072278" src="https://github.com/user-attachments/assets/5a1440b5-0608-460e-8085-931d48f5d594" />
+![1000072747](https://github.com/user-attachments/assets/4ce3fffa-5374-4b81-9f35-96049682fc9c)
