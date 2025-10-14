@@ -14,14 +14,9 @@
       padding: 0;
     }
 
-    h1 {
-      color: red;
-      text-shadow: 0 0 10px red;
-      margin-top: 20px;
-    }
-
     .highlight {
       color: #ff0000;
+      font-weight: bold;
     }
 
     .download-btn {
@@ -54,8 +49,6 @@
   </style>
 </head>
 <body>
-
-  <h1>WarClash</h1>
 
   <p class="highlight">Join India's Best Free Fire Tournament • Compete Daily, Win Cash Instantly 💥</p>
 
