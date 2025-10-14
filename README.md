@@ -24,7 +24,9 @@
       gap: 25px;
     }
 
-    .logo {
+    .logo {<img width="1080" height="1080" alt="1000072278" src="https://github.com/user-attachments/assets/5a1440b5-0608-460e-8085-931d48f5d594" />
+![1000072747](https://github.com/user-attachments/assets/4ce3fffa-5374-4b81-9f35-96049682fc9c)
+
       width: 320px;
       height: auto;
       margin-bottom: 35px;
@@ -168,7 +170,5 @@
     </div>
 
     <footer>© 2025 WarClash. All Rights Reserved.</footer>
-  </div>
 </body>
-</html><img width="1080" height="1080" alt="1000072278" src="https://github.com/user-attachments/assets/5a1440b5-0608-460e-8085-931d48f5d594" />
-![1000072747](https://github.com/user-attachments/assets/4ce3fffa-5374-4b81-9f35-96049682fc9c)
+</html>
